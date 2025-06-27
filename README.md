@@ -24,11 +24,10 @@ Follow these steps to set up the project locally.
 
 2.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/YourUsername/uba-blockchain-project.git
+    git clone https://github.com/Noella2005/uba-blockchain-project.git
     cd uba-blockchain-project
     ```
-    *(Replace `YourUsername` with your actual GitHub username)*
-
+    
 3.  **Install Dependencies:**
     ```bash
     npm install
